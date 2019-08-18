@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jednotkahd.png" group-title="",Jednotka (HD)
+#EXTINF:-1 tvg-id="jednotka.sk" tvg-name="JEDNOTKA" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jednotkahd.png" group-title="",Jednotka (HD)
 https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dvojkahd.png" group-title="",Dvojka (HD)
+#EXTINF:-1 tvg-id="dvojka.sk" tvg-name="DVOJKA" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dvojkahd.png" group-title="",Dvojka (HD)
 https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/markizahd.png" group-title="",Markiza
