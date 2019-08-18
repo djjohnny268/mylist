@@ -1,9 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/stv1hd.png" group-title="",RTVS 1 (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jednotkahd.png" group-title="",Jednotka (HD)
 https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/stv1hd.png" group-title="",RTVS 2 (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dvojkahd.png" group-title="",Dvojka (HD)
 https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UGndszU.jpg" group-title="",Markiza
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hrhfs9p.png" group-title="",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wKJpGke.jpg" group-title="",Joj
@@ -30,8 +33,6 @@ http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zaemQoz.png" group-title="",LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UGndszU.jpg" group-title="",Markiza
-http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="",Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nbBdVPs.jpg" group-title="Sport",Orange Sport
