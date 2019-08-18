@@ -1,21 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="jednotka.sk" tvg-name="JEDNOTKA" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jednotkahd.png" group-title="",Jednotka (HD)
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jednotkahd.png" group-title="",Jednotka (HD)
 https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
-#EXTINF:-1 tvg-id="dvojka.sk" tvg-name="DVOJKA" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dvojkahd.png" group-title="",Dvojka (HD)
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-name="Dvojka" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dvojkahd.png" group-title="",Dvojka (HD)
 https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
-
-#EXTINF:-1 tvg-id="markiza.sk" tvg-name="MARKÍZA" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/markizahd.png" group-title="",Markiza
+#EXTINF:-1 tvg-id="Markiza.sk" tvg-name="Markíza" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/markizahd.png" group-title="",Markiza
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
-#EXTINF:-1 tvg-id="joj.sk" tvg-name="JOJ" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojhd.png" group-title="",Joj
+#EXTINF:-1 tvg-id="JOJ.sk" tvg-name="JOJ" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojhd.png" group-title="",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="jojfamily.sk" tvg-name="JOJFAMILY" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojfamilyhd.png" group-title="",Joj Family
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-name="JOJ Family" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojfamilyhd.png" group-title="",Joj Family
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="jojfamily.sk" tvg-name="JOJFAMILY" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojfamilyhd.png" group-title="",JOJ FAMILY [540p]
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-name="JJOJ Family" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojfamilyhd.png" group-title="",JOJ FAMILY [540p]
 http://nn2.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 tvg-id="jojplus.sk" tvg-name="JOJPLUS" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojplus.png" group-title="",Joj Plus
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-name="JOJ PLUS" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojplus.png" group-title="",Joj Plus
 https://nova-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="jojplus.sk" tvg-name="JOJPLUS" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojplushd.png" group-title="",Joj Plus (Opt-2)
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-name="JOJ PLUS" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/jojplushd.png" group-title="",Joj Plus (Opt-2)
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hrhfs9p.png" group-title="",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
