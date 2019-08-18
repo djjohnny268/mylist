@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oEokm8Y.png" group-title="",RTVS 1 (HD)
+https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oEokm8Y.png" group-title="",RTVS 2 (HD)
+https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hrhfs9p.png" group-title="",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wKJpGke.jpg" group-title="",Joj
@@ -41,10 +46,6 @@ http://ottst05.flexitv.sk/2827-tv-pc.m3u8
 http://nn2.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ASd3Hp2.jpg" group-title="",RTV Krea
 http://213.81.153.221:8080/galanta
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oEokm8Y.png" group-title="",RTVS 1 (HD)
-https://rtvslolive.akamaized.net/hls/live/584144/tv_slo1/slo1/r-playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oEokm8Y.png" group-title="",RTVS 2 (HD)
-https://rtvslolive.akamaized.net/hls/live/584144/tv_slo2/slo2/r-playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3w4SA3V.jpg" group-title="",Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3w4SA3V.jpg" group-title="",Senzi TV (Opt-2)
